@@ -6,12 +6,6 @@
 .DS_Store
 assignments/.DS_Store
 examples/.ipynb_checkpoints/
-examples/checkpoints/*
-examples/graphs/
-examples/improved_graph/
-examples/processed/
-examples/chatbot/processed/*
-examples/chatbot/checkpoints/*
 examples/chatbot/data_analysis.py
 .idea/*
 assignments/chatbot/processed/*
