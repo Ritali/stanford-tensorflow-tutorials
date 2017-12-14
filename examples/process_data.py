@@ -1,4 +1,4 @@
-from __future__ import absolute_import
+
 from __future__ import division
 from __future__ import print_function
 
@@ -98,3 +98,4 @@ def get_index_vocab(vocab_size):
     file_path = download(FILE_NAME, EXPECTED_BYTES)
     words = read_data(file_path)
     return build_vocab(words, vocab_size)
+
