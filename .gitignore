@@ -13,5 +13,5 @@ examples/processed/
 examples/chatbot/processed/*
 examples/chatbot/checkpoints/*
 examples/chatbot/data_analysis.py
-
+.idea/*
 assignments/chatbot/processed/*
